@@ -27,7 +27,7 @@ let posts=[
     },
     {
         id:uuidv4(),
-        username:"Gandhi",
+        username:"Bhagat Singh",
         content:"I love India."
     }
 ];
